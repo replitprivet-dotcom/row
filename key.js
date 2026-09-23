@@ -8,7 +8,7 @@
     },
     {
       "api_key": "rb_live_def456",
-      "active": true,
+      "active": false,
       "expiry_days": 7
     },
     {
