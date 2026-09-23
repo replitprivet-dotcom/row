@@ -8,13 +8,13 @@
     },
     {
       "api_key": "rb_live_def456",
-      "active": false,
-      "expiry_days": 7
+      "active": true,
+      "expiry_days": 10
     },
     {
       "api_key": "rb_live_ghi789",
-      "active": false,
-      "expiry_days": 30
+      "active": true,
+      "expiry_days": 300
     }
   ]
 }
